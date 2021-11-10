@@ -104,14 +104,60 @@
                         h4 Valor corriente
                         p.mb-0 “Las mediciones del valor corriente proporcionan información monetaria sobre activos, pasivos, e ingresos y gastos relacionados, usando información actualizada para reflejar las condiciones en la fecha de medición. Debido a la continua actualización, los valores corrientes de activos y pasivos reflejan los cambios, desde la fecha de medición anterior, en las estimaciones de flujos de efectivo y otros factores reflejados en los valores corrientes”. (Consejo de Normas Internacionales de Contabilidad, 2018, p. 44)
                     
-                     
+    .row.justify-content-center.mb-5 
+      .col-10
+        .tarjeta.color-acento-botones.p-3.px-5
+          .row.justify-content-around.align-items-center
+            .col-2.col-sm-2.col-lg-1.p-0
+              img.w-100(src="@/assets/curso/tema2/img05.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1.texto-blanco Marco Conceptual para la Información Financiera
+                  p.text-small.texto-blanco Para ampliar estos conceptos y favorecer sus conocimientos en esta temática, se recomienda revisar el Marco Conceptual para la Información Financiera (Consejo de Normas Internacionales de Contabilidad, 2018, p. 43 ).
+                .col-sm-auto
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Anexo-Marco-Conceptual-para-la-informacion-financiera.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
           
-                      
+    p.mb-4 Para optar y seleccionar la base de medición, relacionadas en el Manual de Políticas Contables, es importante analizar primero el tipo de empresa, su mercado y el comportamiento de su entorno, teniendo en cuenta los fenómenos y eventos que se dan con regularidad, y establecer lo más adecuado para la empresa u organización. En esta determinación, hay que tener en cuenta que presentar información financiera confiable, actualizada, oportuna, comprensible y fácil de comparar facilitará la toma de decisiones por parte de la gerencia o quien haga sus veces administrativas.
+    p.mb-5 La comunicación efectiva de la información de los estados financieros requiere, según el Consejo de Normas Internacionales de Contabilidad (2018), lo siguiente:
     
+    .row
+      .col-9
+          ol.lista-ol--cuadro.lista-ol--separador
+            li 
+              .lista-ol--cuadro__vineta
+                span(style="color: #12263F") <b>1</b>
+              | Centrarse en los objetivos y principios de presentación de información a revelar, en lugar de centrarse en reglas.
+            li 
+              .lista-ol--cuadro__vineta
+                span(style="color: #12263F") <b>2</b>
+              | Clasificar la información de forma que agrupe las partidas similares y separe las diferentes.
+            li 
+              .lista-ol--cuadro__vineta
+                span(style="color: #12263F") <b>3</b>
+              | Agregar información de forma que no se ensombrezca con detalles innecesarios o agregación excesiva.
+
     Separador
 
     #t_3_4.titulo-segundo.color-acento-contenido
       h2 3.4 Baja de cuentas
+
+    p.mb-5 La baja de cuentas, en términos de cuentas de un activo o un pasivo, se refiere a la posibilidad de eliminación total o parcial de la cuenta a partir de dos posibles situaciones:
+
+    .row.justify-content-center.mb-4
+      .col-lg-4.d-flex
+        div.p-4.t3-div-3-4.mb-4
+          h2.mb-2 01.
+          p.mb-0 Cuando la empresa u organización no posea o pierda el control del activo reconocido.
+
+      .col-lg-4.d-flex
+        div.p-4.t3-div-3-4.mb-4
+          h2.mb-2 02.
+          p.mb-0 Cuando la empresa u organización ya no tenga la obligación en el momento actual.
+
+    p.mb-0 El propósito de dar de baja las cuentas donde se crea pertinente es reflejar la realidad económica y financiera de la empresa, cumpliendo con los criterios de reconocimiento y medición de los hechos económicos, con el fin de que sean reflejados en los estados financieros y que estos estados expresen información fiable, objetiva, útil, relevante y oportuna al momento en que se elaboran y presentan en la empresa.
     Separador
 
 </template>
