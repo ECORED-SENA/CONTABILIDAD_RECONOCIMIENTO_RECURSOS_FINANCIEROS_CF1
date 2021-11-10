@@ -11,3 +11,8 @@
 - E. Ciclo contable
 	- Video no disponible
 	- El archivo de descarga Requisitos de Formalización se pesra en pdf pero es un doc. Se tranforma convierte a pdf pero asumo que debe ser tratado por el diseñador
+
+- la tabla 10 en Cuentas de resultado o nominales no adapta el ancho de las columnas a su contenedor, revisar con Luis
+
+- No se encuentran las actividdes didacticas relacionadas en el material tecnico
+

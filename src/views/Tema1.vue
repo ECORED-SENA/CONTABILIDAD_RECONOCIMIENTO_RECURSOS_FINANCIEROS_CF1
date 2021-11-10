@@ -227,7 +227,7 @@
             p.mb-.mb-4 <b>b. Activo no corriente:</b> los bienes inmuebles, vehículos para trabajar, las máquinas con que produce, las marcas, etc. Estos activos son de permanencia de largo plazo en la empresa.
             .row.mb-4.justify-content-start
               .col-lg-6.col-md-6
-                a.anexo(:href="obtenerLink('/downloads/Clasificación-del activo-pasivo.pdf')" target="_blank")
+                a.anexo(:href="obtenerLink('/downloads/Clasificación-del-activo-pasivo.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto            
