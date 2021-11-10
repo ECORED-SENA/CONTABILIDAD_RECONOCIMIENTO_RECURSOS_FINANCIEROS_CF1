@@ -1,0 +1,13 @@
+1.6
+- El archivo Clasificación del activo-pasivo.docx se espera en pdf y esta en doc. Se ha convertido a pdf pero asunmo que debe ser tratado por el diseñador
+- No existe el anexo pdf Clasificacion del pasivo.
+- No se diseño el contenido del "Ejemplo 1: Recursos de activo con que se soporta", la informacion en el material tecnico es muy compleja como para deducir el diseño
+- La tabla 3 los anchos de las columnas no se adaptan al ancho del contenedor
+
+2
+- D.Impuestos
+	- No se han diseñado los elementos de Impuesto al Valor Agregado - IVA y su complejidad en el material tecnico impide deducir el diseño
+	- No se han diseñado los elementos de Retención en la fuente y su complejidad en el material tecnico impide deducir el diseño
+- E. Ciclo contable
+	- Video no disponible
+	- El archivo de descarga Requisitos de Formalización se pesra en pdf pero es un doc. Se tranforma convierte a pdf pero asumo que debe ser tratado por el diseñador
