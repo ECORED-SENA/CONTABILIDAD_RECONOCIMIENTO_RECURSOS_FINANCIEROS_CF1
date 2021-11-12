@@ -165,7 +165,7 @@
           div.BorTit1.mb-3
             p.mb-0 <b>Tabla 8</b>
             i.mb-0 Comportamiento de las cuentas de balance
-          .tabla-a.color-acento-botones
+          .tabla-a.color-acento-botones(style="background-color: white")
                 table
                   thead
                     tr
@@ -196,7 +196,7 @@
           div.BorTit1.mb-3
             p.mb-0 <b>Tabla 9</b>
             i.mb-0 Comportamiento de las cuentas de resultado
-          .tabla-a.color-acento-botones.mb-5
+          .tabla-a.color-acento-botones.mb-5(style="background-color: white")
                 table
                   thead
                     tr
@@ -238,7 +238,7 @@
               div.BorTit1.mb-3
                 p.mb-0 <b>Tabla 10</b>
                 i.mb-0 Resumen de comportamiento de las cuentas contables
-              .tabla-a.color-acento-botones.mb-5
+              .tabla-a.color-acento-botones.mb-5(style="background-color: white")
                 table
                   thead
                     tr
@@ -286,7 +286,7 @@
               div.BorTit1.mb-3
                 p.mb-0 <b>Tabla 11</b>
                 i.mb-0 Ejemplo desagregado de cuentas
-              .tabla-a.color-acento-botones
+              .tabla-a.color-acento-botones(style="background-color: white")
                 table
                   thead
                     tr
@@ -316,7 +316,7 @@
               div.BorTit1.mb-3
                 p.mb-0 <b>Tabla 12</b>
                 i.mb-0 Clasificación del catálogo contable por tipos o clases de cuenta
-              .tabla-a.color-acento-botones
+              .tabla-a.color-acento-botones(style="background-color: white")
                 table
                   thead
                     tr
@@ -351,7 +351,143 @@
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.justify-content-center(titulo="Impuesto al Valor Agregado - IVA")
+        .col-lg-10
+          p.mb-4 El IVA es el tributo de carácter nacional que grava la venta de bienes, productos y servicios, así como las importaciones, la venta y operación de juegos de azar. Cabe mencionar que todas las empresas están obligadas a ser responsables del IVA, mientras que, en las personas naturales, la responsabilidad del IVA depende de que su facturación en el año inmediatamente anterior, o el nivel de consignaciones bancarias, haya sido superior a 3.500 UVT ($127.078.000).
+          p.mb-4 Su cálculo parte de una tarifa general, la cual actualmente es del 19% para la mayoría de los bienes y servicios. Sin embargo, existen tarifas diferenciales para ciertos productos. La tarifa del impuesto establece que toda empresa que venda bienes o servicios debe calcular un valor del 19% adicional al valor del producto de producción, incluida su ganancia, por concepto de este impuesto denominado IVA. Esto significa que, en la factura, la empresa, una vez totalice los valores del producto vendido al cliente, le sumará el valor correspondiente al IVA, calculando el valor total y final a pagar por parte del cliente. Este último valor es un cargo al pasivo, pues es una obligación ante el estado y no hace parte de los recursos de la empresa (IVA por pagar).
+          p.mb-5 Las empresas declarantes del IVA tienen dos periodos para pagar este impuesto recaudado, tal cual lo establece el Artículo 600 del Estatuto Tributario, uno bimestral y otro cuatrimestral:
+          .row.justify-content-center.mb-4
+            .col-lg-5.d-flex.t2-div11.p-4.py-5.mb-4
+              div 
+                .row.justify-content-start.mb-5
+                  .col-lg-3.col-md-2.col-sm-3.col-3
+                    img.w-75(src="@/assets/curso/tema2/img06.svg")
+                p.mb-1 <b>Bimestral</b>
+                p.mb-0 Las empresas o personas naturales con ingresos brutos al 31 de diciembre del año gravable anterior, o en lo corrido del año, iguales o superiores a 92 Unidades de Valor Tributario ($3.340336). Estas UVT son lotes monetarios que cada año se declaran y actualizan por el gobierno ($36.308 pesos para 2021).
+            .col-lg-5.d-flex.t2-div12.p-4.py-5.mb-4
+              div 
+                .row.justify-content-start.mb-5
+                  .col-lg-3.col-md-2.col-sm-3.col-3
+                    img.w-75(src="@/assets/curso/tema2/img07.svg")
+                p.mb-1 <b>Cuatrimestral</b>
+                p.mb-0 Las empresas o personas naturales con ingresos, el año anterior, menores a 92 UVT ($3.340336 para el 2019).
+
+          p.mb-5 Ahora la declaración, en ambos casos, se debe realizar de conformidad con el calendario establecido.
+          .row.justify-content-center.mb-5
+            .col-lg-9
+              div.BorTit1.mb-3
+                p.mb-0 <b>Tabla 13</b>
+                i.mb-0 Ejemplo cálculo de IVA sobre ventas en factura a cliente
+              .tabla-a.color-acento-botones(style="background-color: white")
+                table
+                  thead
+                    tr
+                      th Cantidad                                     
+                      th Descripción                                     
+                      th Precio/und
+                      th Total
+                  tbody
+                    tr
+                      td 15
+                      td Producto A
+                      td $ 18.000 
+                      td $ 270.000 
+                    tr
+                      td 10
+                      td Producto B
+                      td $ 12.000 
+                      td $ 120.000
+                    tr
+                      td 20
+                      td Producto C
+                      td $ 35.000 
+                      td $ 700.000
+                    tr
+                      td 
+                      td 
+                      td $ -
+                      td $ -
+                    tr
+                      td 
+                      td 
+                      td SUBTOTAL 
+                      td $ 1.090.000 
+                    tr
+                      td 
+                      td 
+                      td IVA (19%) 
+                      td $ 207.100
+                    tr
+                      td 
+                      td 
+                      td TOTAL 
+                      td $ 1.297.100 
+
+          .row.justify-content-center.mb-5
+            .col-lg-9
+              div.BorTit1.mb-3
+                p.mb-0 <b>Tabla 14</b>
+                i.mb-0 Registro de IVA por ventas
+              .tabla-a.color-acento-botones(style="background-color: white")
+                table
+                  thead
+                    tr
+                      th Cuenta                                     
+                      th Debe                                     
+                      th Haber                     
+                  tbody
+                    tr
+                      td Clientes – CxC
+                      td $ 1.297.100
+                      td 
+                    tr
+                      td IVA generado
+                      td 
+                      td $ 207.000
+                    tr
+                      td Ingresos por ventas actividades ordinarias
+                      td 
+                      td $1.297.100
+                    tr
+                      td Total
+                      td $ 1.297.100
+                      td $$ 1.297.100
+
+          .row.justify-content-center
+            .col-lg-11
+              a.anexo.mb-4(href="https://www.youtube.com/watch?app=desktop&v=a_FHEKYZkxw" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-link.svg")
+                .anexo__texto            
+                  p <b>Enlace web.</b> Para efectos de ampliar los conocimientos sobre los requisitos que deben tener las personas naturales para ser o no responsables del IVA y, por ende, de facturar, puede consultar el siguiente video sobre responsables y no responsables del IVA, a través del siguiente enlace.
       .row.justify-content-center(titulo="Retención en la fuente")
+        .col-lg-10
+          p.mb-4 Es un ejercicio establecido por la normatividad en el Estatuto Tributario, no es propiamente un tributo, <span style="color:#E85F5B"><b>es un mecanismo de recaudo anticipado de los impuestos de renta</b></span> que deberán pagar las empresas sobre las utilidades esperadas. 
+          p.mb-5 Las retenciones se manejan en dos clases:
+          .row.justify-content-center.mb-4.px-4
+            .col-lg-5.d-flex.t2-div13.p-4.py-5.mb-4
+              div 
+                .row.justify-content-center.mb-5
+                  .col-lg-4.col-md-2.col-sm-3.col-3
+                    img(src="@/assets/curso/tema2/img08.svg")
+                p.mb-1.texto-blanco <b>Retenciones activas</b>
+                p.mb-0.texto-blanco Toda persona jurídica, previo ciertos requisitos, cada vez que paga, está obligada a realizar una retención en la fuente al acreedor o beneficiario del pago. El valor recaudado debe ser declarado, en formulario o electrónicamente, y pagado ante la Dirección de impuestos y aduanas DIAN, de forma mensual, en las fechas establecidas y fijadas en el calendario tributario.
+            .col-lg-5.d-flex.t2-div14.p-4.py-5.mb-4
+              div 
+                .row.justify-content-center.mb-5
+                  .col-lg-4.col-md-2.col-sm-3.col-3
+                    img(src="@/assets/curso/tema2/img09.svg")
+                p.mb-1 <b>Retenciones pasivas</b>
+                p.mb-0 Suceden cuando la empresa vende bienes o servicios, entonces el cliente deberá realizar una retención en la fuente por el motivo que fuere pertinente; esto hace que toda empresa deba tener en cuenta la actividad, para saber si debe realizar pagos de retención anticipadamente, es decir, si sus clientes le descontarán por esas actividades, restando del valor a pagar al momento de la factura y donde le entregará un certificado que evidencie que le retuvieron dichos montos.
+          
+          p.mb-5 Para determinar en qué casos y cuáles son las tarifas o porcentajes de retención en la fuente, se sugiere consultar a través de la web las tablas de retención en la fuente. Con el apoyo e indicaciones, puede identificar los hechos económicos que serán sujetos de retención en la fuente y, en conformidad con el año en vigencia, se determinen, de acuerdo con el concepto, la tarifa a retener y la forma de contabilizarla.
+          
+          .row.justify-content-center
+            .col-lg-11
+              a.anexo.mb-4(href="https://www.gerencie.com/tabla-de-retencion-en-la-fuente-2021.html" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-link.svg")
+                .anexo__texto            
+                  p <b>Enlace web.</b> Tabla de retención en la fuente año 2021 | Gerencie.com. (2020).
       .row.justify-content-center(titulo="Gravamen a los Movimientos Financieros - GMFA")
         .col-lg-10
           p.mb-0 Es el impuesto que se conoce comúnmente como el 4 por 1.000, que cobra, por parte de las entidades financieras bancarias, por las transacciones de dinero que se hacen desde cuentas de ahorro y cuentas corrientes. Fue creado con el fin de solventar las crisis económicas de sectores económicos o necesidades del Estado. Se calcula tomando como base el valor de la transacción en dinero y multiplicar por 0.004, el resultado será el valor tributado por la empresa al realizar cada transacción. Como se indicó, el recaudo del impuesto lo realizan las entidades bancarias, quienes luego deben transferir los recaudos al gobierno. Para las empresas, esto representa un gasto financiero y es un menor valor del activo, por lo tanto, se debe registrar con naturaleza crédito.
@@ -485,7 +621,7 @@
                   h3.mb-1.texto-blanco Requisitos de Formalización
                   p.text-small.texto-blanco Adicionalmente, puede descargar los requisitos de formalización para que pueda tenerlos de forma local. 
                 .col-sm-auto
-                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Requisitos_de_formalización_Registro_mercantil.pdf')" target="_blank")
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Generalidades.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

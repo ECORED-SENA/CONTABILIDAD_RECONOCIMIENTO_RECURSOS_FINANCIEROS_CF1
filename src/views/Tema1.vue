@@ -227,7 +227,7 @@
             p.mb-.mb-4 <b>b. Activo no corriente:</b> los bienes inmuebles, vehículos para trabajar, las máquinas con que produce, las marcas, etc. Estos activos son de permanencia de largo plazo en la empresa.
             .row.mb-4.justify-content-start
               .col-lg-6.col-md-6
-                a.anexo(:href="obtenerLink('/downloads/Clasificación-del-activo-pasivo.pdf')" target="_blank")
+                a.anexo(:href="obtenerLink('/downloads/Clasificacion_Activo.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto            
@@ -242,7 +242,7 @@
               p.mb-4 <b>Pasivo</b> es una obligación presente de la empresa, surgida a raíz de hechos pasados, al vencimiento de la cual y para pagarla, la empresa espera desprenderse de recursos que incorporan beneficios económicos. 
               .row.justify-content-start
                 .col-lg-6.col-md-6
-                  a.anexo.mb-4(:href="obtenerLink('/downloads/Clasificación-del activo-pasivo.pdf')" target="_blank")
+                  a.anexo.mb-4(:href="obtenerLink('/downloads/Clasificacion_Pasivo.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto            
@@ -272,6 +272,98 @@
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Ejemplo 1: Recursos de activo con que se soporta")
+        .row.mb-5.justify-content-center
+          .col-lg-10
+            p.mb-0 La empresa XYZ SAS suministra la siguiente información del periodo contable 2020. ¿A cuánto asciende el patrimonio de la empresa?:
+        .row.mb-5.justify-content-center
+          .col-lg-6
+            div.BorTit1.mb-3
+              p.mb-0 <b>Tabla 1</b>
+              i.mb-0 Datos de ejemplo empresa XYZ SAS para calcular el patrimonio
+            .tabla-a.color-acento-botones.mb-5(style="background-color: white")
+              table
+                thead
+                  tr
+                    th Cuenta
+                    th Valor
+                tbody
+                  tr
+                    td Efectivo
+                    td $5.000.000
+                  tr
+                    td Deudores
+                    td $3.500.000
+                  tr
+                    td Inventarios
+                    td $2.000.000
+                  tr
+                    td Propiedad, planta y equipo
+                    td $9.000.000
+                  tr
+                    td Obligaciones financieras
+                    td $15.000.000
+                  tr
+                    td Capital - Aportes
+                    td ?
+
+            p.mb-0 La ecuación aplicable en este caso es la siguiente:
+        .row.justify-content-center.mb-5
+          .col-lg-6.d-flex.justify-content-center
+            div.t1-div1.w-75.p-4
+              h3.mb-0.text-center(style="font-weight: normal !important") <b>Activo = Pasivo + Patrimonio neto</b>
+
+        .row.justify-content-center.mb-5
+          .col-lg-6.d-flex.justify-content-center
+            div.t1-div1.w-75.p-4
+              h3.mb-0.text-center(style="font-weight: normal !important") <b>Patrimonio neto = Activo – Pasivo</b>
+
+        .row.justify-content-center.mb-5
+          .col-lg-6.d-flex.justify-content-center
+            .cajon.color-acento-botones.p-5.w-100.d-flex.justify-content-center
+              div
+                p.mb-1 <b>Patrimonio neto</b> = Activo – Pasivo
+                p.mb-1 <b>Patrimonio neto</b> = $19.500.000 - $15.000.000
+                p.mb-0 <b>Patrimonio neto</b> = $4.500.000           
+
+        .row.mb-5.justify-content-center
+          .col-lg-8
+            div.BorTit1.mb-3
+              p.mb-0 <b>Tabla 2</b>
+              i.mb-0 Ejemplo cálculo del Patrimonio XYX SAS
+            .tabla-a.color-acento-botones(style="background-color: white")
+              table
+                thead
+                  tr
+                    th(colspan=3) Activo
+                    th(colspan=3) Pasivo
+                tbody
+                  tr
+                    td(colspan=2) Efectivo
+                    td $5.000.000
+                    td(colspan=2) Obligaciones financieras
+                    td $15.000.000
+                  tr
+                    td(colspan=2) Deudores
+                    td $3.500.000
+                    td(colspan=2) Total Pasivo
+                    td $15.000.000
+                  tr
+                    td(colspan=2) Inventarios
+                    td $2.000.000
+                    td(colspan=3) <b>Patrimonio neto</b>                    
+                  tr
+                    td(colspan=2) Propiedad, planta y equipo
+                    td $9.500.000
+                    td(colspan=2) Capital
+                    td $4.500.000
+                  tr
+                    td(colspan=2) Total Activo
+                    td $19.000.000
+                    td(colspan=2) Total Patrimonio
+                    td $4.500.000
+        .row.justify-content-center
+          .col-lg-10
+            p.mb-0 En este ejemplo, se puede observar cómo es la posición financiera de los recursos de activo con que se soporta la empresa.
       .row(titulo="Ejemplo 2: Clasificar los elementos del estado")
         .row.mb-5.justify-content-center
           .col-lg-10
@@ -281,7 +373,7 @@
             div.BorTit1.mb-3
               p.mb-0 <b>Tabla 3</b>
               i.mb-0 Información contable
-            .tabla-a.color-acento-botones
+            .tabla-a.color-acento-botones(style="background-color: white")
               table
                 thead
                   tr
@@ -327,7 +419,7 @@
             div.BorTit1.mb-3
               p.mb-0 <b>Tabla 4</b>
               i.mb-0 Ejemplo cálculo patrimonio ABC SAS
-            .tabla-a.color-acento-botones
+            .tabla-a.color-acento-botones(style="background-color: white")
               table
                 thead
                   tr
@@ -387,7 +479,7 @@
             .col-lg-9.d-flex.align-items-center.px-4          
               p.mb-0 <b>Nota:</b> para ampliar los conceptos y conocimientos sobre la temática, por favor, revisar las referencias bibliográficas propuestas de la biblioteca SENA, entre las se encuentra el libro de Contabilidad financiera, correlacionado con NIIF. 
     
-    p.mb-5 Asimismo, el Consejo de Normas Internacionales de Contabilidad, en 2018, define que en el estado de resultados integral se encuentran los elementos de ingresos y gastos:
+    p.mb-5 Asi mismo, el Consejo de Normas Internacionales de Contabilidad, en 2018, define que en el estado de resultados integral se encuentran los elementos de ingresos y gastos:
 
     .row.justify-content-center.mb-5 
       .col-1

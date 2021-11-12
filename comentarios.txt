@@ -1,5 +1,5 @@
 1.6
-- El archivo Clasificación del activo-pasivo.docx se espera en pdf y esta en doc. Se ha convertido a pdf pero asunmo que debe ser tratado por el diseñador
+- El archivo Clasificación del activo-pasivo.docx se espera en pdf y esta en doc. Lo he convertido a pdf para vincularlo
 - No existe el anexo pdf Clasificacion del pasivo.
 - No se diseño el contenido del "Ejemplo 1: Recursos de activo con que se soporta", la informacion en el material tecnico es muy compleja como para deducir el diseño
 - La tabla 3 los anchos de las columnas no se adaptan al ancho del contenedor
@@ -15,4 +15,6 @@
 - la tabla 10 en Cuentas de resultado o nominales no adapta el ancho de las columnas a su contenedor, revisar con Luis
 
 - No se encuentran las actividdes didacticas relacionadas en el material tecnico
+
+- Al final del XD (la ultima columna a la derecha) hay un grupo de componentes y no logro deducir a que temas corresponde o donde deben ser incluidos
 
