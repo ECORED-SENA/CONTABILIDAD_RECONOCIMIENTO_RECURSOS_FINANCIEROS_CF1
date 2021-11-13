@@ -266,139 +266,166 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. Ediciones de la U.',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=8047 ',
+    },
+    {
+      referencia:
+        'Cuaspa, C. (2013). Normas internacionales de información financiera convergencia a Colombia y aplicación a empresas de salud. Universidad Nacional de Colombia. ',
+      link: 'https://repositorio.unal.edu.co/handle/unal/20782',
+    },
+    {
+      referencia:
+        'Decreto 2420 de 2015. Por medio del cual se expide el Decreto Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información y se dictan otras disposiciones. Diciembre 14 de 2015.  ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Dirección Financiera y Control De Gestión. (s. f.). Fichas técnicas multimedia. Supuesto práctico de un ciclo contable completo. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://contenidos.campuslearning.es/CONTENIDOS/363/curso/pdf/FICHA-PDD-U15-A1-D1-PDF%20N%C2%BA%201.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Herz, J. (2018). Apuntes de contabilidad financiera. Universidad Peruana de Ciencias Aplicadas. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://search-ebscohost-com.bdigital.sena.edu.co/login.aspx?direct=true&db=nlebk&AN=2221446&lang=es&site=ehost-live',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'International Accounting Standards Board. (2018). Marco Conceptual para la Información Financiera. IFRS. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/enmiendas-iasb-emitidas-en-2018/5-c-marco-conceptual-para-la',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'IFRS Foundation. (2018). Políticas Contables, Cambios en las Estimaciones Contables y Errores (NIC 8 GI). ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Pérez, J. y Fol, R. (2019). Manual de casos prácticos de ISR 2019. Tax Editores. ',
+    },
+    {
+      referencia:
+        'Santos-Cid, C. (2018). Una mirada a la historia de la Contabilidad. Revista Cubana De Finanzas y Precios, 2(1), p. 139-155. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.mfp.gob.cu/revista_mfp/index.php/RCFP/article/view/10_V2N12018_CMSC',
+    },
+    {
+      referencia:
+        'Gaviria, E. (2011). Impuesto de Industria y Comercio. Especialidad en Comercio. ',
+      link: 'https://especialidadencomercio.webnode.es/impuestos/reteica',
+    },
+    {
+      referencia:
+        'Tapia, C. y Jiménez, J. (2018). Cómo entender finanzas sin ser financiero. Instituto Mexicano de Contadores Públicos. ',
+    },
+    {
+      referencia:
+        'Vilches, R. (2019). Apuntes de contabilidad básica. El Cid Editor. ',
+    },
+    {
+      referencia:
+        'Warren, C., Reeve, J. y Duchac, J. (2016). Contabilidad financiera. Cengage Learning.  ',
+      link:
+        'https://webooks.co/images/team/academicos/contabilidad/pdfuniversales/1.Contabilidad%20financiera.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Capital',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Representa el valor por los aportes de los socios; puede darse en recursos monetarios, dinero, o aportando en recursos físicos para que la empresa opere, valorados de forma monetaria, financiera o industrial.',
     },
     {
-      termino: '<em>Suftware</em>',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Costo histórico',
+      significado: 'Es el valor de la transacción de la operación.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Cuenta',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Es la denominación técnica del registro de información financiera para evidenciar los hechos económicos de la empresa.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Cuentas reales',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Son las cuentas que conforman el estado de balance o situación financiera, las cuales son: activo, pasivo y patrimonio. Definen cómo la empresa obtiene o pudo obtener los activos, con recursos de pasivos o de patrimonio.',
     },
     {
-      termino: 'Moda',
+      termino: 'Cuentas de resultado',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'La operación de una empresa en un periodo determinado se registra a través de estas cuentas, que son el grupo que registra los ingresos obtenidos y todos los gastos en que debe incurrir la empresa para operar y al final obtener un resultado de beneficio o pérdida.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Debe',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Significa registrar el valor monetario al lado izquierdo, representa regularmente un cargo.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Caja y Bancos',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es el dinero efectivo y líquido que se encuentra en las cuentas de caja y en las cuentas de ahorro y cuentas corrientes en Bancos, y que están disponibles en el momento.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Estado de situación financiera',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Es un estado integrado por los elementos de activo, pasivo y patrimonio.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Estado de resultados',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Es un estado financiero compuesto por las cuentas de ingresos, gastos y costos, que reflejan el resultado del ejercicio.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Haber',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Corresponde al registro al lado derecho, regularmente representan abonos.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Partida doble',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la igualdad que debe existir entre los registros del debe y el haber en el asiento contable, presentando un equilibrio. Todo lo que se posee y de dónde proviene.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Patrimonio',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la diferencia presentada entre activo y pasivo. Representa el aporte de los socios y el crecimiento o disminución del capital vía utilidad o pérdidas.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Apuntes de contabilidad financiera. Universidad Peruana de Ciencias Aplicadas.',
+      tipo: 'Libro',
+      link:
+        'https://search-ebscohost-com.bdigital.sena.edu.co/login.aspx?direct=true&db=nlebk&AN=2221446&lang=es&site=ehost-live',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Warren, C., Reeve, J. y Duchac, J. (2016). Contabilidad financiera. Cengage Learning.',
+      tipo: 'Libro',
+      descarga: '/downloads/1.Contabilidad-financiera.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'International Accounting Standards Board. (2018). Marco Conceptual para la Información Financiera. IFRS.',
+      tipo: 'PDF',
+      descarga: '/downloads/5-c-Marco-Conceptual-para-la.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+      texto:
+        'Urieles, S. (2014, julio 4). Contabilidad para principiantes 1 [Video]. YouTube.',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://youtu.be/hsSn-mEnP5k',
+    },
+    {
+      texto:
+        'LiMeyer. (2020, mayo 4). Responsables y no responsables del I.V.A. en Colombia [SENA] [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?app=desktop&v=a_FHEKYZkxw',
     },
   ],
   creditos: {
