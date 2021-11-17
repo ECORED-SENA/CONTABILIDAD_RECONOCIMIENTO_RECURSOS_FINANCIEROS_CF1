@@ -74,7 +74,7 @@
                   h4.mb-0 <b>La contabilidad puede ser definida como la disciplina que se aplica a la información existente en toda organización o empresa, que clasifica, registra y resume los acontecimientos económicos realizados o pactados, expresados monetariamente, siempre debidamente sustentados o evidenciados.</b>
             .col-lg-5
           
-    p.mb-0 Otra definición puede ser que la contabilidad es la disciplina encargada de consolidar y registrar la historia de las empresas u organizaciones, ya que compila los sucesos cronológicamente, trazando la ruta que ha llevado la evolución histórica hasta el momento actual de los recursos económicos y sus formas de financiamiento.
+    p.mb-0 Otra definición puede ser que <b>la contabilidad es la disciplina encargada de consolidar y registrar la historia de las empresas u organizaciones</b>, ya que compila los sucesos cronológicamente, trazando la ruta que ha llevado la evolución histórica hasta el momento actual de los recursos económicos y sus formas de financiamiento.
     Separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
@@ -112,7 +112,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img04.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h3 Accionistas o propietarios
-              p.mb-0 Son quienes ponen a disposición de la organización o empresa los recursos de capital con que opera la empresa, quienes se preocupan por los riesgos de viabilidad del negocio a través del tiempo y por la rentabilidad que obtendrán por las inversiones que tienen en la empresa, por lo que necesitan estar informados sobre el estado de la empresa para determinar si deben ampliar su inversión, mantener la que tienen, venderla o retirar dicha inversión. Asimismo, los accionistas están interesados en saber la capacidad de caja o efectivo disponible de la empresa para pagar las utilidades en forma de dividendos periódicos, o cómo sería la forma de recibir dichos beneficios
+              p.mb-0 Son quienes ponen a disposición de la organización o empresa los recursos de capital con que opera la empresa, quienes se preocupan por los riesgos de viabilidad del negocio a través del tiempo y por la rentabilidad que obtendrán por las inversiones que tienen en la empresa, por lo que necesitan estar informados sobre el estado de la empresa para determinar si deben ampliar su inversión, mantener la que tienen, venderla o retirar dicha inversión. Asimismo, los accionistas están interesados en saber la capacidad de caja o efectivo disponible de la empresa para pagar las utilidades en forma de dividendos periódicos, o cómo sería la forma de recibir dichos beneficios.
       .col-lg-5.d-flex
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -199,6 +199,8 @@
       .col-lg-3.col-md-8
         figure.mb-4
           img(src='@/assets/curso/tema1/img10.svg')
+    
+    p.mb-0 Con la operación diaria del negocio o empresa, en cuanto a la producción y/o venta de productos o servicios, se irá desarrollando la operación contable, teniendo en cuenta que las nuevas anotaciones en el activo se reflejarán por igual en el pasivo, asimismo, cualquier cambio en el pasivo se verá reflejado en el activo, razón por la cual la suma de cada columna será igual a la otra.
     Separador
 
     #t_1_6.titulo-segundo.color-acento-contenido
@@ -211,7 +213,7 @@
       .col-lg-6.d-flex.align-items-center
         p.mb-4 El balance o estado de posición financiera de los recursos con que cuenta la empresa también se denomina estado de balance y, como se menciona, su propósito es evidenciar los recursos de la empresa en un momento determinado del tiempo. Es un consolidado del nivel de capitales indicados en términos monetarios, que no expresa las cantidades de cada recurso, ni lo que ha ocurrido con ellos en un lapso de tiempo o periodo determinado, es decir, expresa cuáles existen al inicio o al final de un día determinado y de dónde proceden o cómo se financiaron. Muchos indican que es una “fotografía” que revela la situación actual, por esta razón, para conocer la evolución financiera de la empresa, es necesario tener una serie de estas “fotografías” de momentos o periodos consecutivos.
     
-    p.mb-5 La estructuración del balance constituye el primer paso cuando se inicia un negocio o empresa y es parte de los estados financieros iniciales. La Norma Internacional de Contabilidad (NIC) Nº 1 define cada uno de estos elementos a través de tres masas patrimoniales:
+    p.mb-5 La estructuración del balance constituye el primer paso cuando se inicia un negocio o empresa y es parte de los estados financieros iniciales. La Norma Internacional de Contabilidad (NIC) Nº 1 define cada uno de estos elementos a través de tres <b>masas patrimoniales</b>:
     
     TabsB.color-acento-botones.mb-4
       .py-4.py-md-5(titulo="Activo" :icono="require('@/assets/curso/tema1/img12.svg')")
@@ -221,7 +223,7 @@
             figure.mb-4
               img(src='@/assets/curso/tema1/img15.svg')
           .col-lg-6
-            p.mb-4 Dentro del Activo, se pueden distinguir dos subtipos de estos recursos, los cuales se diferencian por su capacidad de convertirse en dinero o ser para uso y desarrollo de la operación de la empresa, así: 
+            p.mb-4 Dentro del <b>Activo</b>, se pueden distinguir dos subtipos de estos recursos, los cuales se diferencian por su capacidad de convertirse en dinero o ser para uso y desarrollo de la operación de la empresa, así: 
 
             p.mb-1 <b>a. Activo corriente:</b> dinero en caja, bancos, los inventarios, las facturas o cuentas por cobrar inferiores a un año de plazo. Estos activos son perspectiva a corto plazo en la empresa.
             p.mb-.mb-4 <b>b. Activo no corriente:</b> los bienes inmuebles, vehículos para trabajar, las máquinas con que produce, las marcas, etc. Estos activos son de permanencia de largo plazo en la empresa.
@@ -477,7 +479,7 @@
               figure.mb-3
                 img(src='@/assets/curso/tema1/img18.svg')
             .col-lg-9.d-flex.align-items-center.px-4          
-              p.mb-0 <b>Nota:</b> para ampliar los conceptos y conocimientos sobre la temática, por favor, revisar las referencias bibliográficas propuestas de la biblioteca SENA, entre las se encuentra el libro de Contabilidad financiera, correlacionado con NIIF. 
+              p.mb-0 <b>Nota:</b> para ampliar los conceptos y conocimientos sobre la temática, por favor, revisar las referencias bibliográficas propuestas de la biblioteca SENA, entre las que se encuentra el libro de Contabilidad financiera, correlacionado con NIIF. 
     
     p.mb-5 Asi mismo, el Consejo de Normas Internacionales de Contabilidad, en 2018, define que en el estado de resultados integral se encuentran los elementos de ingresos y gastos:
 

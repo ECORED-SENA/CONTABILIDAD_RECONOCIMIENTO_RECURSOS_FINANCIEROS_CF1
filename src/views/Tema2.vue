@@ -218,7 +218,7 @@
                       td Gastos
                       td(colspan=2)
                         p.mb-1 Nombre de la cuenta.
-                        p.mb-0 Registran las disminuciones de las utilidades o beneficios económicos. Tienen un efecto de disminución en el patrimonio neto
+                        p.mb-0 Registran las disminuciones de las utilidades o beneficios económicos. Tienen un efecto de disminución en el patrimonio neto.
                       td Se registran, inician y aumentan en el débito.
                       td 
                         p.mb-1 Disminuyen y se cancelan en el crédito. 
