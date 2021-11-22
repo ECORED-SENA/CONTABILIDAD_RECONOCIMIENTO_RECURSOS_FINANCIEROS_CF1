@@ -172,8 +172,17 @@
     p.mb-5 La información contable y sus cualidades hacen referencia a las características cualitativas que debe tener la contabilidad y la información que alberga, con el fin que esta sea útil a los usuarios, y han sido definidas por el Consejo de Normas Internacionales de Contabilidad (2018) de la siguiente manera: 
     .row.mb-4.justify-content-center
       .col-lg-4.col-md-8
-        figure.mb-4
-          img(src='@/assets/curso/tema1/img07.svg')
+        ImagenInfografica.color-secundario.mb-5
+          template(v-slot:imagen)
+            figure.mb-4
+            img(src='@/assets/curso/tema1/img07.svg')
+
+          .tarjeta.color-secundario--borde.p-3(x="68%" y="17%" numero=" ")            
+            p.mb-0 La información debe evidenciar los hechos económicos tal cual sucedieron o como se presentaron, y estar completa. De igual manera, la información contable debe ser objetiva y sin sesgos, neutral en su presentación, garantizando que esté libre de error u omisión, es decir, integral, completa.
+
+          .tarjeta.color-secundario--borde.p-3(x="40%" y="51.5%" numero=" ")            
+            p.mb-0 Esta cualidad de la información contable se evidencia cuando ejerce influencia significativa ante quienes toman las decisiones económicas, ayudándoles a evaluar o sustentar hechos pasados, presentes o de tendencias para futuras actuaciones. También permite confirmar o rectificar informes, conceptos o evaluaciones realizadas anteriormente.
+        
       .col-lg-2.d-flex.align-items-center.justify-content-center
         div.mb-4
           div.BorTit3
@@ -181,8 +190,22 @@
           div.BorTit4
             h4.mb-0 Contable
       .col-lg-4.col-md-8
-        figure.mb-4
-          img(src='@/assets/curso/tema1/img08.svg')              
+        ImagenInfografica.color-secundario.mb-5
+          template(v-slot:imagen)
+            figure.mb-4
+              img(src='@/assets/curso/tema1/img08.svg')              
+
+          .tarjeta.color-secundario--borde.p-3(x="32%" y="14%" numero=" ")            
+            p.mb-0 La información contable debe ser objetiva, puntual, clara y concisa, garantizando ser comprensible ante cualquier dato, y donde todos los tipos de usuarios deben interpretar lo mismo.
+        
+          .tarjeta.color-secundario--borde.p-3(x="53.3%" y="60%" numero=" ")            
+            p.mb-0 Esta cualidad de la información contable se relaciona con la de fiabilidad, en el sentido que es la que permite la validación fiel de los hechos económicos, desde la revisión de los registros de las transacciones y sus soportes, como del cumplimiento de los procesos por los cuales se reconocieron, lo que se hace mediante la veeduría directa.
+
+          .tarjeta.color-secundario--borde.p-3(x="34%" y="81.6%" numero=" ")            
+            p.mb-0 La información contable debe estar disponible y actualizada (siendo el dato más reciente), al momento que se requiere para la toma de decisiones.
+
+          .tarjeta.color-secundario--borde.p-3(x="13.2%" y="40%" numero=" ")            
+            p.mb-0 esta cualidad permite a los interesados la comparación de los estados financieros o sus diferentes componentes de activos, pasivos, o cuentas específicas, con el fin de identificar comportamientos de tendencias, así como poder realizar comparativos con otras empresas de actividad similar, e identificar posiciones de capacidad, posición financiera, etc.
 
     p.mb-0 La información contable, para que sea eficientemente útil para la toma de decisiones, deberá cumplir con las cualidades fundamentales y de mejora.
     
