@@ -567,7 +567,7 @@ div
 
   h3 Imagen Infográfica A
 
-  ImagenInfografica.color-secundario.mb-5
+  
     template(v-slot:imagen)
       figure
         img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')

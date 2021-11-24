@@ -205,7 +205,7 @@
             p.mb-0 La información contable debe estar disponible y actualizada (siendo el dato más reciente), al momento que se requiere para la toma de decisiones.
 
           .tarjeta.color-secundario--borde.p-3(x="13.2%" y="40%" numero=" ")            
-            p.mb-0 esta cualidad permite a los interesados la comparación de los estados financieros o sus diferentes componentes de activos, pasivos, o cuentas específicas, con el fin de identificar comportamientos de tendencias, así como poder realizar comparativos con otras empresas de actividad similar, e identificar posiciones de capacidad, posición financiera, etc.
+            p.mb-0 Esta cualidad permite a los interesados la comparación de los estados financieros o sus diferentes componentes de activos, pasivos, o cuentas específicas, con el fin de identificar comportamientos de tendencias, así como poder realizar comparativos con otras empresas de actividad similar, e identificar posiciones de capacidad, posición financiera, etc.
 
     p.mb-0 La información contable, para que sea eficientemente útil para la toma de decisiones, deberá cumplir con las cualidades fundamentales y de mejora.
     
