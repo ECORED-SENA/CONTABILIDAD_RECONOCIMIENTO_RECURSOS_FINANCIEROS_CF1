@@ -314,19 +314,19 @@
                 tbody
                   tr
                     td Efectivo
-                    td $5.000.000
+                    td $ 5.000.000
                   tr
                     td Deudores
-                    td $3.500.000
+                    td $ 3.500.000
                   tr
                     td Inventarios
-                    td $2.000.000
+                    td $ 2.000.000
                   tr
                     td Propiedad, planta y equipo
-                    td $9.000.000
+                    td $ 9.000.000
                   tr
                     td Obligaciones financieras
-                    td $15.000.000
+                    td $ 15.000.000
                   tr
                     td Capital - Aportes
                     td ?

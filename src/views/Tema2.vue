@@ -578,7 +578,7 @@
     p.mb-5 A continuación, observe la definición detallada del ciclo contable, a través del siguiente video:  
     figure.mb-5 
       .video
-        iframe(width="1280" height="720" src="https://www.youtube.com/embed/NhsdLCBUev4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-4 
       .col-lg-6
@@ -607,7 +607,7 @@
 
     figure.mb-5 
       .video
-        iframe(width="1280" height="720" src="https://www.youtube.com/embed/NhsdLCBUev4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-5 
       .col-10
