@@ -314,19 +314,19 @@
                 tbody
                   tr
                     td Efectivo
-                    td $ 5.000.000
+                    td $  5.000.000
                   tr
                     td Deudores
-                    td $ 3.500.000
+                    td $  3.500.000
                   tr
                     td Inventarios
-                    td $ 2.000.000
+                    td $  2.000.000
                   tr
                     td Propiedad, planta y equipo
-                    td $ 9.000.000
+                    td $  9.000.000
                   tr
                     td Obligaciones financieras
-                    td $ 15.000.000
+                    td $  15.000.000
                   tr
                     td Capital - Aportes
                     td ?
@@ -347,8 +347,8 @@
             .cajon.color-acento-botones.p-5.w-100.d-flex.justify-content-center
               div
                 p.mb-1 <b>Patrimonio neto</b> = Activo – Pasivo
-                p.mb-1 <b>Patrimonio neto</b> = $19.500.000 - $15.000.000
-                p.mb-0 <b>Patrimonio neto</b> = $4.500.000           
+                p.mb-1 <b>Patrimonio neto</b> = $ 19.500.000 - $ 15.000.000
+                p.mb-0 <b>Patrimonio neto</b> = $ 4.500.000           
 
         .row.mb-5.justify-content-center
           .col-lg-8
@@ -364,28 +364,28 @@
                 tbody
                   tr
                     td(colspan=2) Efectivo
-                    td $5.000.000
+                    td $ 5.000.000
                     td(colspan=2) Obligaciones financieras
-                    td $15.000.000
+                    td $ 15.000.000
                   tr
                     td(colspan=2) Deudores
-                    td $3.500.000
+                    td $ 3.500.000
                     td(colspan=2) Total Pasivo
-                    td $15.000.000
+                    td $ 15.000.000
                   tr
                     td(colspan=2) Inventarios
-                    td $2.000.000
+                    td $ 2.000.000
                     td(colspan=3) <b>Patrimonio neto</b>                    
                   tr
                     td(colspan=2) Propiedad, planta y equipo
-                    td $9.500.000
+                    td $ 9.500.000
                     td(colspan=2) Capital
-                    td $4.500.000
+                    td $ 4.500.000
                   tr
                     td(colspan=2) Total Activo
-                    td $19.000.000
+                    td $ 19.000.000
                     td(colspan=2) Total Patrimonio
-                    td $4.500.000
+                    td $ 4.500.000
         .row.justify-content-center
           .col-lg-10
             p.mb-0 En este ejemplo, se puede observar cómo es la posición financiera de los recursos de activo con que se soporta la empresa.
@@ -407,28 +407,28 @@
                 tbody
                   tr
                     td Efectivo
-                    td $2.500.000 
+                    td $ 2.500.000 
                   tr
                     td Deudores
-                    td $2.000.000 
+                    td $ 2.000.000 
                   tr
                     td Inventarios
-                    td $2.800.000 
+                    td $ 2.800.000 
                   tr
                     td Propiedad, planta y equipo
-                    td $6.500.000 
+                    td $ 6.500.000 
                   tr
                     td Proveedores nacionales
-                    td $8.800.000 
+                    td $ 8.800.000 
                   tr
                     td Capital
-                    td $5.000.000 
+                    td $ 5.000.000 
                   tr
                     td Ingresos actividades ordinarias
-                    td $10.000.000 
+                    td $ 10.000.000 
                   tr
                     td Gastos
-                    td $4.000.000
+                    td $ 4.000.000
 
         .row.mb-4.justify-content-center
           .col-lg-10    
@@ -437,7 +437,7 @@
               .col-lg-6
                 div.t1-div1.w-75.p-4
                   h3.mb-0.text-center(style="font-weight: normal !important") <b>Activo</b> = Pasivo + Patrimonio
-            p.mb-5 En este caso, primero se deben clasificar los elementos del estado de posición financiera, cuentas de activo, pasivo y patrimonio neto. Como se observa, existen cuentas de resultado, las cuales se deben omitir, es decir, las cuentas de ingresos y gastos en la información suministrada, ya que estas no definen posición financiera, sino que definen el estado de resultados. Por lo anterior, se obtiene que el valor de activos correspondiente asciende a $13.800.000, que es igual a la sumatoria de pasivo y patrimonio neto, cumpliendo con lo estipulado en la ecuación.
+            p.mb-5 En este caso, primero se deben clasificar los elementos del estado de posición financiera, cuentas de activo, pasivo y patrimonio neto. Como se observa, existen cuentas de resultado, las cuales se deben omitir, es decir, las cuentas de ingresos y gastos en la información suministrada, ya que estas no definen posición financiera, sino que definen el estado de resultados. Por lo anterior, se obtiene que el valor de activos correspondiente asciende a $ 13.800.000, que es igual a la sumatoria de pasivo y patrimonio neto, cumpliendo con lo estipulado en la ecuación.
     
         .row.mb-5.justify-content-center
           .col-lg-8
@@ -453,29 +453,29 @@
                 tbody
                   tr
                     td(colspan=2) Efectivo
-                    td.text-end $2.500.000
+                    td.text-end $ 2.500.000
                     td(colspan=2) Obligaciones financieras
-                    td.text-end $8.800.000
+                    td.text-end $ 8.800.000
                   tr
                     td(colspan=2) Deudores
-                    td.text-end $2.000.000
+                    td.text-end $ 2.000.000
                     td(colspan=2) Total Pasivo
-                    td.text-end $8.800.000
+                    td.text-end $ 8.800.000
                   tr
                     td(colspan=2) Inventarios
-                    td.text-end $2.800.000
+                    td.text-end $ 2.800.000
                     td(colspan=3).text-center 
                       h4.mb-0 Patrimonio neto                
                   tr
                     td(colspan=2) Propiedad, planta y equipo
-                    td.text-end $6.500.000
+                    td.text-end $ 6.500.000
                     td(colspan=2) Capital
-                    td.text-end $5.000.000
+                    td.text-end $ 5.000.000
                   tr
                     td(colspan=2) Total Activo
-                    td.text-end $13.800.000
+                    td.text-end $ 13.800.000
                     td(colspan=2) Total Patrimonio
-                    td.text-end $5.000.000
+                    td.text-end $ 5.000.000
 
         .row.justify-content-center.mb-5
           .col-lg-6.d-flex.justify-content-center
@@ -487,12 +487,12 @@
             .row.justify-content-center.mb-5
               .col-lg-5.d-flex.justify-content-center.px-0
                 div.t1-div1.w-100.p-4.mx-0
-                  h3.mb-0.text-center(style="font-weight: normal !important") $13.800.000
+                  h3.mb-0.text-center(style="font-weight: normal !important") $ 13.800.000
               .col-lg-2.d-flex.justify-content-center.align-items-center
                 h1.mb-0 =
               .col-lg-5.d-flex.justify-content-center.px-0
                 div.t1-div1.w-100.p-4
-                  h3.mb-0.text-center(style="font-weight: normal !important") $13.800.000
+                  h3.mb-0.text-center(style="font-weight: normal !important") $ 13.800.000
     
     .row.justify-content-center.mb-5
       .col-lg-10

@@ -49,16 +49,16 @@
                 tbody
                   tr
                     td Bancos
-                    td.text-end $1.000.000        
+                    td.text-end $ 1.000.000        
                     td.text-end
                   tr
                     td Caja
                     td.text-end          
-                    td.text-end $1.000.000
+                    td.text-end $ 1.000.000
                   tr
                     td Total
-                    td.text-end $1.000.000
-                    td.text-end $1.000.000
+                    td.text-end $ 1.000.000
+                    td.text-end $ 1.000.000
 
             p.mb-0 De acuerdo con la tabla anterior, se puede ver que en el débito y en el crédito se registra el mismo valor, y se presenta una igualdad en la transacción; es decir, débitos y créditos son idénticos, lo que es denominado principio de partida doble.
 
@@ -66,7 +66,7 @@
         .row.justify-content-center
           .col-lg-10
             p.mb-4 Es la operación o hecho económico que ocurre en la empresa donde intervienen más de dos cuentas contables. Regularmente, sucede cuando se registran compras o ventas de productos, donde hay que relacionar otros ítems, como el impuesto sobre las ventas (IVA), las retenciones en la fuente por ventas, servicios, etc., las retenciones sobre el Impuesto de Industria y Comercio (ICA), entre otros.
-            p.mb-5 Ejemplo: en una empresa, se realiza una venta por valor de $10.000.000, a crédito, sujeta a impuesto de IVA del 19 %, tal cual lo dicta la ley para el producto vendido.  Analizando este hecho económico, se puede evidenciar que en la operación intervienen tres cuentas contables: 1) La de ventas o ingresos por actividades ordinarias (crédito), correspondiente a los ingresos que provocarán la venta, 2) la cuenta de IVA generado y por pagar (débito), de los pasivos, ya que es dinero que la empresa le debe ahora al gobierno por esa venta; y 3) la cuenta de clientes o cuentas por cobrar (crédito), la cual obedece al activo. De acuerdo con la naturaleza de cada una de las cuentas, se presentará un aumento o disminución; asimismo, se deberá registrar la operación de venta mediante el registro contable, tal como se observa a continuación:
+            p.mb-5 Ejemplo: en una empresa, se realiza una venta por valor de $ 10.000.000, a crédito, sujeta a impuesto de IVA del 19 %, tal cual lo dicta la ley para el producto vendido.  Analizando este hecho económico, se puede evidenciar que en la operación intervienen tres cuentas contables: 1) La de ventas o ingresos por actividades ordinarias (crédito), correspondiente a los ingresos que provocarán la venta, 2) la cuenta de IVA generado y por pagar (débito), de los pasivos, ya que es dinero que la empresa le debe ahora al gobierno por esa venta; y 3) la cuenta de clientes o cuentas por cobrar (crédito), la cual obedece al activo. De acuerdo con la naturaleza de cada una de las cuentas, se presentará un aumento o disminución; asimismo, se deberá registrar la operación de venta mediante el registro contable, tal como se observa a continuación:
         .row.justify-content-center
           .col-lg-8
             div.BorTit1.mb-3
@@ -82,22 +82,22 @@
                 tbody
                   tr
                     td(colspan=2)  Clientes – CxC
-                    td.text-end $11.900.000                   
+                    td.text-end $ 11.900.000                   
                     td.text-end
                   tr
                     td(colspan=2)  IVA generado
                     td.text-end          
-                    td.text-end $1.900.000
+                    td.text-end $ 1.900.000
                   tr
                     td(colspan=2)  Ingresos por ventas actividades ordinarias
                     td.text-end          
-                    td.text-end $10.000.000
+                    td.text-end $ 10.000.000
                   tr
                     td(colspan=2)  Total
-                    td.text-end $11.900.000          
-                    td.text-end $11.900.000
+                    td.text-end $ 11.900.000          
+                    td.text-end $ 11.900.000
 
-            p Es de resaltar que, en el registro del asiento compuesto, se aplica igualmente el principio de la partida doble, ya que se registra el ingreso por el valor monetario de la venta ($10.000.000) y después se calcula el valor del IVA señalado, a la tarifa del 19 %, el cual da como resultado $1.900.000. Por último, se registra el valor de la factura que deberá pagar el comprador, en la cuenta contable del activo corriente clientes o cuentas por cobrar CxC. El cliente pagará el valor total, que es la suma del valor facturado por el producto o servicio, y que será un ingreso para la empresa, y el IVA de dicha venta, que será un pasivo al gobierno; por ende, se deben incrementar estos dos valores en la cuenta por cobrar, y se registra entonces un valor total de $11.900.000.
+            p Es de resaltar que, en el registro del asiento compuesto, se aplica igualmente el principio de la partida doble, ya que se registra el ingreso por el valor monetario de la venta ($10.000.000) y después se calcula el valor del IVA señalado, a la tarifa del 19 %, el cual da como resultado $ 1.900.000. Por último, se registra el valor de la factura que deberá pagar el comprador, en la cuenta contable del activo corriente clientes o cuentas por cobrar CxC. El cliente pagará el valor total, que es la suma del valor facturado por el producto o servicio, y que será un ingreso para la empresa, y el IVA de dicha venta, que será un pasivo al gobierno; por ende, se deben incrementar estos dos valores en la cuenta por cobrar, y se registra entonces un valor total de $ 11.900.000.
       
     h3 B. Cuenta: concepto y clasificación
     p.mb-4 En los ítems anteriores se detallaron los conceptos sobre los hechos económicos, su clasificación y la forma de registrar una transacción o hecho contable en conformidad con la clasificación de los mismos. En complemento, es necesario ampliar la definición de los conceptos de <span style="color: #E85F5B">cuentas contables y su clasificación</span>, de acuerdo con la normatividad.
@@ -389,38 +389,38 @@
                     tr
                       td 15
                       td Producto A
-                      td $ 18.000 
-                      td $ 270.000 
+                      td $  18.000 
+                      td $  270.000 
                     tr
                       td 10
                       td Producto B
-                      td $ 12.000 
-                      td $ 120.000
+                      td $  12.000 
+                      td $  120.000
                     tr
                       td 20
                       td Producto C
-                      td $ 35.000 
-                      td $ 700.000
+                      td $  35.000 
+                      td $  700.000
                     tr
                       td 
                       td 
-                      td $ -
-                      td $ -
+                      td $  -
+                      td $  -
                     tr
                       td 
                       td 
                       td SUBTOTAL 
-                      td $ 1.090.000 
+                      td $  1.090.000 
                     tr
                       td 
                       td 
                       td IVA (19%) 
-                      td $ 207.100
+                      td $  207.100
                     tr
                       td 
                       td 
                       td TOTAL 
-                      td $ 1.297.100 
+                      td $  1.297.100 
 
           .row.justify-content-center.mb-5
             .col-lg-9
@@ -437,20 +437,20 @@
                   tbody
                     tr
                       td Clientes – CxC
-                      td $ 1.297.100
+                      td $  1.297.100
                       td 
                     tr
                       td IVA generado
                       td 
-                      td $ 207.000
+                      td $  207.000
                     tr
                       td Ingresos por ventas actividades ordinarias
                       td 
-                      td $1.297.100
+                      td $ 1.297.100
                     tr
                       td Total
-                      td $ 1.297.100
-                      td $$ 1.297.100
+                      td $  1.297.100
+                      td $ $ 1.297.100
 
           .row.justify-content-center
             .col-lg-11
@@ -494,7 +494,7 @@
       .row.justify-content-center(titulo="Impuesto de Industria y Comercio - ICA")
         .col-lg-10
           p.mb-4 Es el impuesto reglamentado desde la Ley 14 de 1983, el Decreto 1333 de 1986 y lo dispuesto en la Ley 1819 de 2016; además, <span style="color: #E85F5B">está regulado desde cada municipio y su sistema tributario, es decir, es un tributo que se aplica a nivel nacional</span>, pero su pago se realiza a los municipios donde se desarrolla la actividad económica de la empresa o por parte de la persona natural. Se genera por el desarrollo de cualquier actividad comercial, de servicios o de carácter industrial en la jurisdicción del municipio, no donde se presta, sino donde opera o tiene domicilio quien oferta. 
-          p.mb-5 Se debe identificar la base mínima, la cual corresponde a definir cuál es el valor a partir del cual se puede hacer la retención del ICA en cada municipio. Bogotá, para 2021, estableció una base mínima por servicios para pago de ICA de $145.000 (4 UVT), y para el caso de compras, este valor asciende a $980.000 (27 UVT). Por lo anterior, es necesario establecer los montos por los que las actividades están sujetas al pago de ICA, asimismo, definir desde qué valores se debe aplicar por ingresos en cada municipio, para así proceder al pago de este impuesto.
+          p.mb-5 Se debe identificar la base mínima, la cual corresponde a definir cuál es el valor a partir del cual se puede hacer la retención del ICA en cada municipio. Bogotá, para 2021, estableció una base mínima por servicios para pago de ICA de $ 145.000 (4 UVT), y para el caso de compras, este valor asciende a $ 980.000 (27 UVT). Por lo anterior, es necesario establecer los montos por los que las actividades están sujetas al pago de ICA, asimismo, definir desde qué valores se debe aplicar por ingresos en cada municipio, para así proceder al pago de este impuesto.
           div.BorTit1.mb-3
             p.mb-0 <b>Tabla 15</b>
             i.mb-0 Tarifa para cálculo de retención en el ICA según actividad
@@ -560,10 +560,10 @@
               .cajon.color-acento-contenido.p-5
                 div.px-4
                   h4 Ejemplo
-                  p.mb-4 Como ejemplo, se puede suponer que una empresa industrial del sector de Cota, municipio muy cercano a Bogotá, vende productos a otra empresa compradora en Bogotá, por un valor total de mercancías de $5.000.000. Calcular el valor de Reteica por parte de la empresa en Bogotá, que fue donde se realizó la transacción.
-                  p.mb-4 Como se mencionó anteriormente, en 2021 en Bogotá, desde la SDH, se estableció que la base mínima es de $980.000 por compras, luego, hay que practicar el Reteica por el hecho de la compra por parte de la empresa en Bogotá, así:
+                  p.mb-4 Como ejemplo, se puede suponer que una empresa industrial del sector de Cota, municipio muy cercano a Bogotá, vende productos a otra empresa compradora en Bogotá, por un valor total de mercancías de $ 5.000.000. Calcular el valor de Reteica por parte de la empresa en Bogotá, que fue donde se realizó la transacción.
+                  p.mb-4 Como se mencionó anteriormente, en 2021 en Bogotá, desde la SDH, se estableció que la base mínima es de $ 980.000 por compras, luego, hay que practicar el Reteica por el hecho de la compra por parte de la empresa en Bogotá, así:
                   h4.mb-0 (Valor bruto de la compra de mercancías X tarifa por mil de Reteica) ÷ 1000
-                  h4.mb-0 ($5.000.000 X 11.04) ÷ 1000 = $55.200 
+                  h4.mb-0 ($5.000.000 X 11.04) ÷ 1000 = $ 55.200 
           p.mb-4 Para legalizar la retención del ICA, la empresa retenedora debe diligenciar el formulario para declarar ICA de cada municipio, bien sea físico o electrónico (incluyendo el comprobante de egreso y adjuntar el asiento contable, de ser necesario), con el formulario del periodo liquidado junto con las demás retenciones realizadas.
           p.mb-0 La empresa retenedora deberá enviar el certificado de retención al sujeto que le fue aplicada la retención, donde evidencie y deje constancia del monto y tipo de Reteica que se aplicó (según la actividad). Con ese certificado, el vendedor puede declararlo y por ende deducirlo cuando vaya a hacer su propia declaración y su pago del ICA.
       .row.justify-content-center(titulo="Impuesto de renta")
