@@ -577,8 +577,8 @@
     p.mb-4 La contabilidad inicia su aplicación cuando la empresa u organización inicia su actividad y, posteriormente, se lleva por periodos anuales, los cuales inician el 1 de enero y terminan el 31 de diciembre de cada año; si la empresa inicia el 23 de mayo, su primer ejercicio irá hasta el 31 de diciembre, y posteriormente por todo el año, tal como se indicó.
     p.mb-5 A continuación, observe la definición detallada del ciclo contable, a través del siguiente video:  
     figure.mb-5 
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(iframe width="1189" height="669" src="https://www.youtube.com/embed/fKYnZt2xTs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-4 
       .col-lg-6
