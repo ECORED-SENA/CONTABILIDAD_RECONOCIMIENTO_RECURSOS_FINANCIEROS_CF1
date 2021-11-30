@@ -487,12 +487,12 @@
             .row.justify-content-center.mb-5
               .col-lg-5.d-flex.justify-content-center.px-0
                 div.t1-div1.w-100.p-4.mx-0
-                  h3.mb-0.text-center(style="font-weight: normal !important") $ 13.800.000
+                  h3.mb-0.text-center(style="font-weight: normal !important; white-space: pre;") $ 13.800.000
               .col-lg-2.d-flex.justify-content-center.align-items-center
                 h1.mb-0 =
               .col-lg-5.d-flex.justify-content-center.px-0
                 div.t1-div1.w-100.p-4
-                  h3.mb-0.text-center(style="font-weight: normal !important") $ 13.800.000
+                  h3.mb-0.text-center(style="font-weight: normal !important; white-space: pre;") $ 13.800.000
     
     .row.justify-content-center.mb-5
       .col-lg-10

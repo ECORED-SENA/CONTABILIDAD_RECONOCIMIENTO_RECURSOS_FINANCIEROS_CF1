@@ -606,8 +606,8 @@
     p.mb-5 Para dar cumplimiento a la actividad comercial, industrial o de servicios, el o los empresarios deberán cumplir con los siguientes requisitos que formalizarán la actividad que desarrollarán:
 
     figure.mb-5 
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/n5Bv63FxmNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-5 
       .col-10
