@@ -362,14 +362,14 @@
                   .col-lg-3.col-md-2.col-sm-3.col-3
                     img.w-75(src="@/assets/curso/tema2/img06.svg")
                 p.mb-1 <b>Bimestral</b>
-                p.mb-0 Las empresas o personas naturales con ingresos brutos al 31 de diciembre del año gravable anterior, o en lo corrido del año, iguales o superiores a 92 Unidades de Valor Tributario ($3.340336). Estas UVT son lotes monetarios que cada año se declaran y actualizan por el gobierno ($36.308 pesos para 2021).
+                p.mb-0 Las empresas o personas naturales con ingresos brutos al 31 de diciembre del año gravable anterior, o en lo corrido del año, iguales o superiores a 92 Unidades de Valor Tributario ($3.340.336). Estas UVT son lotes monetarios que cada año se declaran y actualizan por el gobierno ($36.308 pesos para 2021).
             .col-lg-5.d-flex.t2-div12.p-4.py-5.mb-4
               div 
                 .row.justify-content-start.mb-5
                   .col-lg-3.col-md-2.col-sm-3.col-3
                     img.w-75(src="@/assets/curso/tema2/img07.svg")
                 p.mb-1 <b>Cuatrimestral</b>
-                p.mb-0 Las empresas o personas naturales con ingresos, el año anterior, menores a 92 UVT ($3.340336 para el 2019).
+                p.mb-0 Las empresas o personas naturales con ingresos, el año anterior, menores a 92 UVT ($3.340.336 para el 2019).
 
           p.mb-5 Ahora la declaración, en ambos casos, se debe realizar de conformidad con el calendario establecido.
           .row.justify-content-center.mb-5

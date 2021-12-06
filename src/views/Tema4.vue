@@ -15,7 +15,7 @@
 
     //p.mb-5 A continuación, puede visualizar los <a class="lnk" style="color: #E85F5B" click="alert('b'); modal1=true"><b>soportes contables</b></a> y cada una de las categorías.
     p.mb-5 A continuación, puede visualizar los 
-       a.lnk(@click="modal1 = true" style="color: #E85F5B") <b>Abrir modal</b> 
+       a.lnk(@click="modal1 = true" style="color: #E85F5B") <b>soportes contables</b> 
        |  y cada una de las categorías.
 
     ModalA(:abrir-modal.sync="modal1")

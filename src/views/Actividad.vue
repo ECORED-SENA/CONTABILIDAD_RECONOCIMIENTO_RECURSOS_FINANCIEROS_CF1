@@ -33,7 +33,7 @@
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 A partir de los conceptos de principios comntables de estado de una situación financiera inicial, así como del registro en cuentas de los hechos económicos, desarrolle la siguiente actividad hipotética de caso.
+              p.fw-bold.mb-0 A partir de los conceptos de principios contables de estado de una situación financiera inicial, así como del registro en cuentas de los hechos económicos, desarrolle la siguiente actividad hipotética de caso.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad2/story.html')" target="_blank")
                 span Realizar

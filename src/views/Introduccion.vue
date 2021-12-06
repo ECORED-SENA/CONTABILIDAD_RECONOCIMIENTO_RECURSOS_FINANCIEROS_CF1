@@ -28,7 +28,7 @@
             .col-lg-5
             .col-lg-6
               p.mb-4 Este componente lo orientará hacia el proceso contable y organizar su actividad comercial. 
-              p.mb-0 Para la elaboración de este componente, se abordaron varios autores conocidos en <b>contabilidad y hechos económicos</b>, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos aquellos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos del <b>reconocimiento de recursos financieros</b>.
+              p.mb-0 Para la elaboración de este componente, se abordaron varios autores conocidos en <b>contabilidad y hechos económicos</b>, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este componente formativo sea útil para todos aquellos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos del <b>reconocimiento de recursos financieros</b>.
             .col-lg-1
 
     

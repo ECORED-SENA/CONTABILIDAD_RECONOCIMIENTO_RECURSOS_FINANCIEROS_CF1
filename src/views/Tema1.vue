@@ -131,7 +131,7 @@
         h4 Entidades financieras 
         p.mb-0 Son las entidades, bien sean públicas o privadas, que suministran o proveen recursos adicionales, eminentemente monetarios y ajenos, a los aportados por los accionistas o propietarios de la organización o empresa. El interés de las entidades financieras o crediticias es identificar información que les permita analizar el estado actual de la empresa y sus tendencias pasadas o futuras, y así tomar la decisión de prestar o colocar los dineros que requiera la empresa, en conformidad con la determinación de la capacidad para pagar y devolver los préstamos junto con sus correspondientes intereses, dentro de un horizonte de tiempo pactado.   
       .t1-tab1.tarjeta.color-primario--borde.p-4.py-5(titulo="Proveedores y demás acreedores")
-        h4 Proveedores
+        h4 Proveedores y demás acreedores
         p.mb-0 Son todas las personas naturales o jurídicas (otras empresas u organizaciones) que suministran bienes o servicios, a quienes les interesa la información contable de la empresa u organización, ya que les permite saber si las cantidades y valores por esos bienes o servicios que suministran podrán ser pagadas al vencimiento o en un periodo más corto al que pactaron al momento de la negociación para el suministro de las mismas.
       .t1-tab1.tarjeta.color-primario--borde.p-4.py-5(titulo="Clientes")
         h4 Clientes
